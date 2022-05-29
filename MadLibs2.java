@@ -1,12 +1,12 @@
 public class MadLibs {
     /*
     This program generates a mad libbed story.
-  Author: Paulina
+  Author: Paulina Malek
   Date: 24/1/22
     */
         public static void main(String[] args){
         
-        String name1 = "Katie";
+        String name1 = "Hannah";
         String adjective1 ="Strong";
         String adjective2 ="Funny";
         String adjective3 ="Blue";
@@ -32,4 +32,3 @@ public class MadLibs {
     System.out.println(story);
       }       
   }
-  
